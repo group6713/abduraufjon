@@ -16,28 +16,28 @@ const Footer = () => {
    <div className='flex flex-col gap-3'>
       <h1 className='text-[18px] font-semibold'>About</h1>
       <ul className='flex flex-col gap-2 text-[#979797] text-[14px]'>
-        <li><Link>About Us</Link></li>
-        <li><Link>Features</Link></li>
-        <li><Link>News</Link></li>
-        <li><Link>Menu</Link></li>
+        <li>About Us</li>
+        <li>Features</li>
+        <li>News</li>
+        <li>Menu</li>
       </ul>
     </div>
     <div className='flex flex-col gap-3'>
       <h1 className='text-[18px] font-semibold'>Company</h1>
       <ul className='flex flex-col gap-2 text-[#979797] text-[14px]'>
-        <li><Link>Why 2rism</Link></li>
-        <li><Link>Partner With Us</Link></li>
-        <li><Link>Partner With Us</Link></li>
-        <li><Link>Blog</Link></li>
+        <li>About Us</li>
+        <li>Features</li>
+        <li>News</li>
+        <li>Menu</li>
       </ul>
     </div>
     <div className='flex flex-col gap-3'>
       <h1 className='text-[18px] font-semibold'>Support</h1>
       <ul className='flex flex-col gap-2 text-[#979797] text-[14px]'>
-        <li><Link>Account</Link></li>
-        <li><Link>Support Center</Link></li>
-        <li><Link>Feedback</Link></li>
-        <li><Link>Contact Us</Link></li>
+        <li>About Us</li>
+        <li>Features</li>
+        <li>News</li>
+        <li>Menu</li>
       </ul>
     </div>
    </div>
